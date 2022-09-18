@@ -3,7 +3,10 @@
 ## 紙の上の魔法使い
 
 バージョン1.6で、予約特典を閲覧できるようにするパッチです  
-[ダウンロード(patch2.xp3)](/kamimaho/patch2.xp3)
+[ダウンロード(patch2.xp3)](/kamimaho/patch2.xp3)  
+
+DL(Fanza)版に適応する場合は、以下のDLLも追加してください。  
+[ダウンロード(krmovie.dll)](/kamimaho/krmovie.dll)  
 
 ### インストール方法
 
@@ -14,5 +17,6 @@
 　｜  
 　＋patch1.xp3  
 　＋patch2.xp3  
+　＋krmovie.dll  
 　＋紙の上の魔法使い.eXe  
 　＋・・・・・・  
